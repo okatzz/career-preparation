@@ -1,0 +1,38 @@
+Ge Gao
+
+Department of Computer Science
+University of Virginia
+(434) 284-0223
+gg5j@virginia.edu
+
+
+
+March 9, 2012
+
+
+Dear Hiring Executive,
+
+I am writing to apply for the Software Engineer - New Grad position at Yelp. Based on my education background and professional experience, I believe I am a strong candidate for the position with the exact qualifications you seek.
+
+Your Requirements:
+
+1. Minimum BS degree in Computer Science;
+2. Command of modern programming language;
+3. Strong grasp of algorithms and data structures;
+4. Command of web application programming;
+5. Background in machine learning and/or information retrieval.
+
+My Qualifications:
+
+1. Graduating with Master degree from University of Virginia, GPA of 3.9;
+2. 5+ years experience of using C/C++ and Java;
+3. Applying algorithm and data structure knowledge daily in research project development;
+4. Solid experience in developing web applications using Java Servlet and Javascript/Ajax gained from research projects and IBM internship project;
+5. Conducted several research projects in data mining area employing machine learning techniques.
+
+
+Thank you for your consideration. If you would like to discuss further about my qualifications, please feel free to contact me via email at gg5j@virginia.edu or via telephone at (434) 284-0223. I am looking forward to communicating with you.
+
+Sincerely,
+
+Ge Gao.

@@ -1,0 +1,38 @@
+Ge Gao
+
+Department of Computer Science
+University of Virginia
+(434) 284-0223
+gg5j@virginia.edu
+
+
+
+February 23, 2012
+
+
+Dear Hiring Executive,
+
+I am writing to apply for the Software Engineer – 2012 New College Grad position (Job ID: 2350139) at LinkedIn. Based on my education background and professional experience, I believe I am a strong candidate for the position with the exact qualifications you seek.
+
+Your Requirements:
+
+1. BS/MS/PhD in Computer Science;
+2. Data structures, algorithms, software design and problem solving;
+3. Experience in short-cycle agile development;
+4. Experience in data mining and machine learning;
+5. Experience in web application development.
+
+My Qualifications:
+
+1. Graduating with Master degree from University of Virginia, GPA of 3.9;
+2. Completed college curriculum trainings and utilize the knowledge in everyday project development;
+3. Conducted research on agile methodologies; team working in tool-supported agile manner;
+4. Conducted research projects in data mining area employing machine learning techniques;
+5. Built web applications with Java Servlet backend and Javascript/Ajax frontend.
+
+
+Thank you for your consideration. If you would like to discuss further about my qualifications, please feel free to contact me via email at gg5j@virginia.edu or via telephone at (434) 284-0223. I am looking forward to communicating with you.
+
+Sincerely,
+
+Ge Gao.

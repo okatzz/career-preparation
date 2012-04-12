@@ -1,0 +1,100 @@
+                    
+                                                     GE GAO
+
+Department of Computer Science                                      1-434-284-0223
+University of Virginia	                                                     gg5j@virginia.edu
+Charlottesville, Virginia 22903	
+United States	
+
+
+
+                                                    OBJECTIVE  
+
+To apply for a full-time position as Data Research Engineer.
+Area of expertise: Software Engineering, Data Mining.
+
+
+
+                                                     EDUCATION  
+
+University of Virginia, Charlottesville, VA 	           Currently Enrolled
+Ph.D. program in Computer Science - GPA 3.9/4.0. Advisor: Dr. Kevin Sullivan
+
+Zhejiang University, Hangzhou, China 	           Sep. 2006 ~ Jun. 2008
+M.S. program in Computer Science
+ 
+Zhejiang University, Hangzhou, China 	           Sep. 2002 ~ Jun. 2006
+B.S. program in Computer Science - GPA 90/100
+
+
+
+                                             PROJECT EXPERIENCE  
+ 
+
+[ Software Engineering ]
+
+* Oct.10-Present       Social Decision Networks in Software Engineering
+   Software Engineering Group, University of Virginia, Charlottesville, VA
+-- Proposed and developed a model of Social Decision Networks(SDNs) which formalizes how people in social networks perform collaborative decision making in software development. 
+-- Developed a Web 2.0 based tool to support distributed social construction SDNs and infer the coordination requirements in the social networks for software quality improvement.
+-- Part of IBM Open Collaborative Research program
+-- Technology used: RESTful web service, Javascript+Ajax(Dojo), Comet, Non-SQL database
+
+* May.10-Aug.10       Supporting Enterprise Stakeholders’ Collaboration using Decision Space
+   Internship at IBM T.J. Watson Research Center, Hawthorne, NY
+-- Designed and prototyped a framework that provides supports for enterprise stakeholders’ collaboration in software development process in the ontology of decision space.
+-- Technology used: Restlet, Javascript+Ajax(Dojo), J2EE
+
+* May.09-May.10        Grounding the Concept of Socio-Technical Congruence in a Decision-Based Ontology
+   Software Engineering Group, University of Virginia, Charlottesville, VA
+-- Developed and recast theories of Socio-Technical Congruence of software ecosystems in terms of design decisions and dependencies.
+-- Based on the STC theories, developed collaboration analytics on top of IBM Rationale Jazz platform.
+- Technology used: IBM Rational Jazz development platform, Eclipse Plug-in Development, Eclipse Modeling Framework
+
+
+[ Wireless Sensor Network ]
+
+* Dec.08-May.09        Wireless Sensors based Load Monitoring and Energy Conservation
+   Wireless Sensor Network Group, University of Virginia, Charlottesville, VA
+-- Proposed a wireless sensors based framework which monitors and reduces residential energy expenditure by monitoring and predicting occupancy patterns.
+-- Technology used: Matlab, data mining
+
+
+[ Data Mining ]
+
+* Sep.06-Jun.08         Motion Time Series Classification
+   Database Lab, Zhejiang University, China
+-- Proposed a Classification Model for Multivariate Motion time series, with application of machine learning methodologies to feature extraction, dimension subset ranking & selection and model training; conducted experiments to demonstrate model performance and compare with conventional techniques.
+-- Technology used: Decision Tree, Neural Networks, Numerical Analysis
+
+
+[ Select Course Projects ]
+
+* Software Engineering. Developed an Android application that allows mobile phone users to participate in Weichi contest on KGS Go server and is able to provide move recommendation intelligently.
+* Computer Architecture. Simulated Simultaneous Multithreading Processor using SimpleScalar.
+* Operating System. Designed an algorithm to optimize Linux scheduling to reduce cache coldness on multi-core systems.
+* Compilers. Designed and developed a BDC compiler with using Lex and Yacc.¬
+
+
+
+PUBLICATIONS  
+
+Ge Gao, Kevin Sullivan. "Social Decision Networks in Software Engineering". 34th International Conference on Software Engineering. Zurich, Switzerland. (under review)
+
+Ge Gao, Kamin Whitehouse. "The Self-Programming Thermostat: Optimizing Setback Schedules based on Home Occupancy Patterns". First ACM Workshop On Embedded Sensing Systems For Energy-Efficiency In Buildings (BuildSys '09), held in conjunction with ACM SenSys. Berkeley, CA, Nov. 2009.
+
+Lidan Shou, Ge Gao, Gang Chen, Jinxiang Dong. "Classifying Motion Time Series Using Neural Networks". 7th IEEE Pacific Rim Conference on Multimedia (PCM 2006)
+
+
+
+PROFESSIONAL SKILLS  
+
+C/C++(6+years), Java(5+years), HTML, CSS, Javascript; experienced in RESTful web service, Ajax toolkit, J2EE, Android application development, Eclipse plug-in development, UML and Matlab; programming on Unix/Linux; familiar with data mining and machine learning techniques.
+
+
+
+TEACHING EXPERENCE  
+
+TA, University of Virginia
+- Discrete Mathematics. Course discussion, student communication, evaluation.                 Autumn 2008
+- Theory of Computation. Project design, student communication, evaluation.                   Spring 2009        
