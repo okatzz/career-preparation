@@ -6,18 +6,21 @@
 CPP_SRCS += \
 ../src/LenghOfSubstringWithNoRepeatingChar.cpp \
 ../src/LongestPalindromeSubstring.cpp \
+../src/Stock.cpp \
 ../src/removeSpaceFromString.cpp \
 ../src/replaceStringPattern.cpp 
 
 OBJS += \
 ./src/LenghOfSubstringWithNoRepeatingChar.o \
 ./src/LongestPalindromeSubstring.o \
+./src/Stock.o \
 ./src/removeSpaceFromString.o \
 ./src/replaceStringPattern.o 
 
 CPP_DEPS += \
 ./src/LenghOfSubstringWithNoRepeatingChar.d \
 ./src/LongestPalindromeSubstring.d \
+./src/Stock.d \
 ./src/removeSpaceFromString.d \
 ./src/replaceStringPattern.d 
 

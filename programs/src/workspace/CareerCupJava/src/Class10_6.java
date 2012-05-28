@@ -1,16 +1,33 @@
 
 public class Class10_6 {
 
+	public Coordinate findInSortedMatrix(int[][] matrix, int value){
+		Coordinate coordinate = new Coordinate(0, matrix[0].length);
+		while(coordinate.x<matrix.length&&coordinate.y>=0){
+			if(value==matrix[coordinate.x][coordinate.y]){
+				return coordinate;
+			}
+			if(value<matrix[coordinate.x][coordinate.y]){
+				coordinate.y--;
+			}else{
+				coordinate.x++;
+			}
+		}
+		coordinate.x=-1;
+		coordinate.y=-1;
+		return coordinate;
+	}
+	
 }
 
-class Coordination implements Cloneable{
+class Coordinate implements Cloneable{
 	
-	
+	int x;
+	int y;
 
-	@Override
-	public Object clone() throws CloneNotSupportedException {
-		// TODO Auto-generated method stub
-		return super.clone();
+	public Coordinate(int x, int y){
+		this.x=x;
+		this.y = y;
 	}
 	
 }

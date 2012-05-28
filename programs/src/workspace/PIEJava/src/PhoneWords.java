@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class PhoneWords{
 	public static void printPhoneWordsRecursive(int[] number){
 		int length=number.length;
@@ -43,6 +45,33 @@ public class PhoneWords{
 					out[i]=getCharKey(number[i], 1);
 				}
 			}
+		}
+	}
+	
+	public static ArrayList<char[]> phoneWordsNonRecursive2(int[] num){
+		char[] word=new char[num.length];
+		for(int i=0; i<num.length; i++){
+			word[i]=getCharKey(num[i], 1);
+		}
+		
+		ArrayList<char[]> result = new ArrayList<char[]>();
+		
+		while(true){
+			result.add(word);
+			int i;
+			for(i=num.length-1; i>=0; i--){
+				if(word[i]==getCharKey(num[i], 3) || num[i]==0 || num[i]==1){
+					word[i]=getCharKey(num[i], 1);
+				}else if(word[i]==getCharKey(num[i], 1)){
+					word[i]=getCharKey(num[i], 2);
+					break;
+				}else{
+					word[i]=getCharKey(num[i], 3);
+					break;
+				}
+			}
+			if(i==-1)
+				return result;
 		}
 	}
 	

@@ -1,0 +1,103 @@
+/***************************************************************************************************************/
+
+
+
+                                                GE GAO
+
+Department of Computer Science	                                          1-434-284-0223
+University of Virginia	                                                  gg5j@virginia.edu
+Charlottesville, VA 22903	
+United States	
+
+
+
+EDUCATION
+--------------------------
+Ph.D. program in Computer Science, currently enrolled, University of Virginia, Charlottesville, VA.	GPA 3.9/4.0
+Focus area: Software Engineering, Social Network Analysis. Advisor: Dr. Kevin Sullivan.
+
+M.S. program in Computer Science, Sep. 2006 ~ Jun. 2008, Zhejiang University, China.	GPA 87/100
+Focus area: Data Mining, Information Retrieval, Multimedia Database. Advisor: Dr. Gang Chen.
+
+B.S. program in Computer Science, Sep. 2002 ~ Jun. 2006, Zhejiang University, China.	GPA 90/100
+
+
+PROFESSIONAL EXPERIENCE  
+--------------------------
+** Department of Computer Science, University of Virginia				Aug. 2008-present
+   Research Assistant
+   [ Social Decision Networks in Software Engineering ]
+     - Proposed and developed a model of Social Decision Networks (SDNs) which formalizes how people in social networks perform collaborative decision making in software development. 
+     - Developed Web 2.0 based web services to support distributed social construction of SDNs and inference of coordination requirements of social networks for software quality improvement.
+     - Part of IBM Open Collaborative Research program.
+     - Technology used: RESTful web service, Javascript+Ajax (Dojo), Comet, Non-SQL database.
+   
+   [ Grounding Socio-Technical Congruence in a Decision-Based Ontology ]
+     - Developed and recast theories of Socio-Technical Congruence in software ecosystems in terms of design decisions and dependencies.
+     - Based on STC theories, developed organization coordination analytics on top of IBM Rational Jazz platform.
+     - Technology used: IBM Rational Jazz platform, Eclipse Plug-in Development, Eclipse Modeling Framework.
+   
+   [ Wireless Sensors based Load Monitoring and Energy Conservation ]
+     - Proposed a wireless sensors based framework which monitors and reduces residential energy expenditure by monitoring and predicting occupancy patterns.
+     - Technology used: Matlab, data mining.
+
+   [ Sieve: Simple Event Classification for Wireless Sensor Networks ]
+     - Proposed a system called Sieve that uses unsupervised learning to automatically identify recurring events in sensor streams.
+     - Compared Sieve to conventional supervised learning and analyzed performance in terms of accuracy and systems scalability to multiple deployment scenarios.
+     - Technology used: Matlab, decision tree, Bayes classification, k-means, principal component analysis.
+
+** IBM T. J. Watson Research Center, New York				May 2010-Aug. 2010
+   Research Intern
+   [ Supporting Enterprise Stakeholders' Collaboration using Decision Space ]
+     - Studied the enterprise coordination patterns and state-of-art supporting facilities by interviewing a variety of technical and non-technical personnel.
+     - Designed and developed a framework that provides supports for enterprise stakeholders' collaboration and coordination in software development process in the ontology of decision space.
+     - Technology used: Restlet, Javascript+Ajax (Dojo), J2EE.
+
+** Department of Computer Science, Zhejiang University				Sep. 2006-Jun. 2008
+   Research Assistant
+   [ Motion Time Series Classification ]
+     - Proposed a classification model for multivariate motion time series, with application of data analysis and machine learning techniques to feature extraction and model training.
+     - Conducted experiments to test the model performance and compare it with the state-of-art techniques.
+     - Technology used: decision tree, neural networks, numerical analysis.
+
+** Selected Projects in Master Program
+   - Software Engineering. Developed a mobile application on Android platform that connects phone users to Weichi contest on KGS Go server and provides them intelligent move recommendation.
+   - Operating System. Optimized Linux scheduling algorithm to reduce cache coldness on multi-core systems.
+   - Computer Architecture. Simulated Simultaneous Multithreading Processor using SimpleScalar.
+   - Compilers. Built a BDC compiler using Lex and Yacc.
+
+
+SELECTED PUBLICATIONS  
+-------------------------
+Ge Gao, Kevin Sullivan. "Social Decision Networks in Software Engineering. 34th International Conference on Software Engineering". Zurich, Switzerland, Jun. 2012. (under review)
+
+Ge Gao, Kamin Whitehouse. "The Self-Programming Thermostat: Optimizing Setback Schedules based on Home Occupancy Patterns". BuildSys '09, held in conjunction with ACM SenSys. Berkeley, CA, Nov. 2009.
+
+Lidan Shou, Ge Gao, Gang Chen, Jinxiang Dong. "Classifying Motion Time Series Using Neural Networks". PCM 2006. Hangzhou, China, May 2006.
+
+
+PROFESSIONAL SKILLS  
+--------------------------
+* Programming language: C/C++(6+years), Java(5+years), 80x86 Assembly Language, Unix Shell, SQL.
+* Web application development: HTML+CSS, Javascript, Ajax toolkit, RESTful web service, SOAP, J2EE.
+* Desktop application development: Eclipse plug-in development, IBM Rational Jazz, Matlab, Swing, MFC.
+* Operating system: Android OS, Unix/Linux, Windows.
+* Database: Non-SQL(CouchDB), DB2, MySQL.
+* Development environment and tool: Eclipse, Visual Studio, Ant, Maven, Subversion, Git, UML.
+* Computer Science theories: data mining, machine learning, software architecture, social network analysis.
+
+
+
+TEACHING EXPERIENCE  
+--------------------------
+TA, University of Virginia
+ * Discrete Mathematics. Course discussion, student communication, evaluation.                 Autumn 2008
+ * Theory of Computation. Project design, student communication, evaluation.                   Spring 2009        
+
+
+REFERENCES  
+--------------------------
+Available upon request.
+
+
+/***************************************************************************************************************/
