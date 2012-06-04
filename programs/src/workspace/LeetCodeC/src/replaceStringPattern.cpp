@@ -1,14 +1,3 @@
-/*
-bool isMatch(const char *str1, const char *str2){
-	while(*str2){
-		if((!*str1)||(*str1!=*str2))
-			return false;
-		str1++;
-		str2++;
-	}
-	return true;
-}
-
 void replacePattern(char *str, const char *pattern){
 	if(!str||!pattern)
 		return;
@@ -30,7 +19,15 @@ void replacePattern(char *str, const char *pattern){
 	}
 	*pslow='\0';
 
-}*/
+}
 
 
-
+bool isMatch(const char *str1, const char *str2){
+	while(*str2){
+		if((!*str1)||(*str1!=*str2))
+			return false;
+		str1++;
+		str2++;
+	}
+	return true;
+}
